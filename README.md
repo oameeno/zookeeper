@@ -2,7 +2,7 @@
 
 This is breifly what I did and utilized with this project!
 
-* https://shielded-beyond-88808.herokuapp.com/ *
+* https://shielded-beyond-88808.herokuapp.com/ 
 
 
 
